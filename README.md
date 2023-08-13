@@ -5,6 +5,6 @@
 - InMemory Db Context DI
 
 ## [BookStoreApi](BookStoreApi)
-- Simple Controler-based web API
+- Simple Controller-based web API
 - Service DI
 - MongoDB
