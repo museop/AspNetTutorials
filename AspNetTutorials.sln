@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrpcCalculatorServer", "Grp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrpcSpecFlowCalculator", "GrpcSpecFlowCalculator\GrpcSpecFlowCalculator.csproj", "{CA5E4EDE-7BA3-4A61-A175-DE3493015C94}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nUnitTest", "nUnitTest\nUnitTest.csproj", "{B5B9C317-14B3-4421-AA46-D7CD1C75F5A2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +38,9 @@ Global
 		{CA5E4EDE-7BA3-4A61-A175-DE3493015C94}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CA5E4EDE-7BA3-4A61-A175-DE3493015C94}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CA5E4EDE-7BA3-4A61-A175-DE3493015C94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5B9C317-14B3-4421-AA46-D7CD1C75F5A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5B9C317-14B3-4421-AA46-D7CD1C75F5A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5B9C317-14B3-4421-AA46-D7CD1C75F5A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5B9C317-14B3-4421-AA46-D7CD1C75F5A2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
