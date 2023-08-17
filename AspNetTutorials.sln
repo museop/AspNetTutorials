@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrpcSpecFlowCalculator", "G
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nUnitTest", "nUnitTest\nUnitTest.csproj", "{B5B9C317-14B3-4421-AA46-D7CD1C75F5A2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResilienceWithPolly", "ResilienceWithPolly\ResilienceWithPolly.csproj", "{0B4C1687-9218-4744-9233-1CE60B4CCB0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BenchmarkDotnetExample", "BenchmarkDotnetExample\BenchmarkDotnetExample.csproj", "{954BC158-26A2-43DC-BD5B-FC95E0A6473B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,5 +46,13 @@ Global
 		{B5B9C317-14B3-4421-AA46-D7CD1C75F5A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B5B9C317-14B3-4421-AA46-D7CD1C75F5A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B5B9C317-14B3-4421-AA46-D7CD1C75F5A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B4C1687-9218-4744-9233-1CE60B4CCB0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B4C1687-9218-4744-9233-1CE60B4CCB0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B4C1687-9218-4744-9233-1CE60B4CCB0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B4C1687-9218-4744-9233-1CE60B4CCB0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{954BC158-26A2-43DC-BD5B-FC95E0A6473B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{954BC158-26A2-43DC-BD5B-FC95E0A6473B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{954BC158-26A2-43DC-BD5B-FC95E0A6473B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{954BC158-26A2-43DC-BD5B-FC95E0A6473B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
