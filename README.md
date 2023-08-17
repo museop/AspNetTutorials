@@ -15,3 +15,16 @@
 ## [GrpcCalculatorServer](GrpcCalculatorServer) and [GrpcSpecFlowCalculator](GrpcSpecFlowCalculator)
 - Simple integration test using SpecFlow & NUnit framework
 - Test Grpc server
+
+## [ResilienceWithPoly](ResilienceWithPoly)
+- .NET resilience and transient-fault-handling library
+- Policies:
+  - Retry
+  - Circuit Breaker
+  - Timeout
+  - Bulkhead Isolation
+  - Rate-limiting
+  - Fallback
+
+## [BenchmarkDotnetExample](BenchmarkDotnetExample)
+- Benchmarking tool for .NET
