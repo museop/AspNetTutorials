@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResilienceWithPolly", "Resi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BenchmarkDotnetExample", "BenchmarkDotnetExample\BenchmarkDotnetExample.csproj", "{954BC158-26A2-43DC-BD5B-FC95E0A6473B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncTaskExample", "AsyncTaskExample\AsyncTaskExample.csproj", "{AE954565-D0AC-4B40-BFC2-837B38BA131E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -54,5 +56,9 @@ Global
 		{954BC158-26A2-43DC-BD5B-FC95E0A6473B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{954BC158-26A2-43DC-BD5B-FC95E0A6473B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{954BC158-26A2-43DC-BD5B-FC95E0A6473B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE954565-D0AC-4B40-BFC2-837B38BA131E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE954565-D0AC-4B40-BFC2-837B38BA131E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE954565-D0AC-4B40-BFC2-837B38BA131E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE954565-D0AC-4B40-BFC2-837B38BA131E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
