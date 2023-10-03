@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BenchmarkDotnetExample", "B
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncTaskExample", "AsyncTaskExample\AsyncTaskExample.csproj", "{AE954565-D0AC-4B40-BFC2-837B38BA131E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SyncAndAsync", "SyncAndAsync\SyncAndAsync.csproj", "{8315E05A-6758-443B-8C26-A6E32A7C3A48}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -60,5 +62,9 @@ Global
 		{AE954565-D0AC-4B40-BFC2-837B38BA131E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AE954565-D0AC-4B40-BFC2-837B38BA131E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AE954565-D0AC-4B40-BFC2-837B38BA131E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8315E05A-6758-443B-8C26-A6E32A7C3A48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8315E05A-6758-443B-8C26-A6E32A7C3A48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8315E05A-6758-443B-8C26-A6E32A7C3A48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8315E05A-6758-443B-8C26-A6E32A7C3A48}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
