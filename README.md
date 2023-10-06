@@ -28,3 +28,6 @@
 
 ## [BenchmarkDotnetExample](BenchmarkDotnetExample)
 - Benchmarking tool for .NET
+
+## [SyncAndAsync](SyncAndAsync)
+- Sync logic vs Async logic
