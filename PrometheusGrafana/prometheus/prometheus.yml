@@ -1,0 +1,7 @@
+global:
+  scrape_interval: 10s
+
+scrape_configs:
+  - job_name: 'webapp'
+    static_configs:
+      - targets: ['webapp:80']
